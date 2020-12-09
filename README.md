@@ -1,0 +1,2 @@
+# the-room-keys
+            ("Story: You wake up in a forest with fragmented memories,");  ("You can remember things like your name, but you can't where you are or how you get here.");  ("Before you can fully grasp your circumstance you hear a sound behind,");  ("You don't know what it is but by the sounds that the creature is making it didn't sound friendly,");  ("You have to run and hide from the creature, while also trying to find a way to escape from the strange \n" +  "forest that you find yourself in.
